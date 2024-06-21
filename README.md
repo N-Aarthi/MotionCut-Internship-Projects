@@ -1,6 +1,6 @@
-**Quiz Game**
+**Quiz Application**
 
-A simple Java console application for a quiz game. This application allows users to answer multiple-choice questions and provides a final score at the end.
+A simple Java console application for a quiz application. This application allows users to answer multiple-choice questions and provides a final score at the end.
 
 **Features**
 
